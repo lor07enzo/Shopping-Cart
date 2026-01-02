@@ -1,0 +1,20 @@
+{
+  "jsonExpenses": [
+    {
+      "id": "0998",
+      "description": "ciao",
+      "amount": 32,
+      "category": "Other",
+      "createdAt": "2025-12-28T22:46:45.175Z",
+      "updatedAt": "2025-12-28T22:46:45.175Z"
+    },
+    {
+      "id": "e8cf",
+      "description": "carote, cipolle, sedano, carciofi",
+      "amount": 18,
+      "category": "Food",
+      "createdAt": "2025-12-28T23:06:29.357Z",
+      "updatedAt": "2025-12-28T23:06:29.357Z"
+    }
+  ]
+}
